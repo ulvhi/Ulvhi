@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Ulvi 👋</h1>
 <h3 align="center">Backend Developer • Spring Boot Enthusiast • Problem Solver</h3>
 
-<img align="right" alt="Jinx" width="135" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1pZzU3YTFlbnQ1ejJudzVmaHF5enFuZjRqMWJhNzh5MjhrdDBsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUiaieaflB7x5u8ZM9/giphy.gif" />
+<img align="right" alt="Jinx" width="311" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1pZzU3YTFlbnQ1ejJudzVmaHF5enFuZjRqMWJhNzh5MjhrdDBsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUiaieaflB7x5u8ZM9/giphy.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ulvhi&label=Profile%20views&color=0e75b6&style=flat" alt="ulvhi" />
