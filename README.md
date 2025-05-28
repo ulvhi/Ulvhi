@@ -17,7 +17,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:huseinov.ulvhi24@icloud.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
