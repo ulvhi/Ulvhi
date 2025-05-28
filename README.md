@@ -11,9 +11,6 @@
 
 ---
 
-
-
-
 <p align="left">
   <a href="https://linkedin.com/in/ülvi-hüseynov-a28ab1269" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ulvi" height="30" width="40" />
@@ -24,8 +21,6 @@
 </p>
 
 ---
-
-
 
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
@@ -50,4 +45,3 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
   </a>
 </p>
- correct?
